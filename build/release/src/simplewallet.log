@@ -1,0 +1,28 @@
+2018-Feb-20 02:26:12.912319 INFO [simplewallet] Nivabits wallet v1.1.1.1()
+2018-Feb-20 02:27:07.262011 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18136).
+2018-Feb-20 02:27:07.302491 INFO [simplewallet] Generated new wallet: darbmLArMFEFAYqNfcmHfE1FRPBYzfgXWfUADPFZHyn6bME4YsnNZUxhceSGyeBK2nA82JBA4nvBzSYPJUxJHCQE5zFFT23m6d
+2018-Feb-20 02:27:07.302491 INFO [simplewallet] view key: 9dc060f4fe33e20a546d4a51da4e2ec4fab1ab826736ac0ac43fea3a20a8350e
+2018-Feb-20 02:27:07.302581 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2018-Feb-20 02:27:13.641567 INFO [simplewallet] Wallet closed
+2018-Feb-20 02:27:20.979098 INFO [simplewallet] Nivabits wallet v1.1.1.1()
+2018-Feb-20 02:27:35.513832 INFO [simplewallet] Loading wallet...
+2018-Feb-20 02:27:35.514564 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18136).
+2018-Feb-20 02:27:35.545943 INFO [simplewallet] Opened wallet: darbmLArMFEFAYqNfcmHfE1FRPBYzfgXWfUADPFZHyn6bME4YsnNZUxhceSGyeBK2nA82JBA4nvBzSYPJUxJHCQE5zFFT23m6d
+2018-Feb-20 02:27:35.546018 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2018-Feb-20 02:29:28.736038 INFO [simplewallet] Wallet closed
+2018-Feb-20 02:56:53.197914 INFO [simplewallet] Nivabits wallet v1.1.1.1()
+2018-Feb-20 02:57:13.431882 INFO [simplewallet] Loading wallet...
+2018-Feb-20 02:57:13.444186 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18136).
+2018-Feb-20 02:57:13.504863 INFO [simplewallet] Opened wallet: darbmLArMFEFAYqNfcmHfE1FRPBYzfgXWfUADPFZHyn6bME4YsnNZUxhceSGyeBK2nA82JBA4nvBzSYPJUxJHCQE5zFFT23m6d
+2018-Feb-20 02:57:13.505027 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2018-Feb-20 02:57:22.907521 INFO [simplewallet] Wallet closed
